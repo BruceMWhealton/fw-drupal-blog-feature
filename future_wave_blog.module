@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Future Wave Blog feature.
+ */
+
+include_once 'future_wave_blog.features.inc';
