@@ -1,5 +1,5 @@
 name = Future Wave Blog
-description = A Blog Feature
+description = A Blog Feature with a View
 core = 7.x
 package = Features
 version = 7.x-1.0
